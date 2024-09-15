@@ -1,0 +1,274 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    color: #111111;
+    background-color: #fafafa;
+}
+
+ul, ol {
+    list-style-type: none;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+/* ==================== our Header ==================== */
+
+.logo {
+    font-style: italic;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.11;
+    letter-spacing: -0.03em;
+}
+
+.logo-part {
+    font-style: normal;
+}
+
+.nav-link {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: -0.02em;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+    color:#fd9222;
+}
+
+/* ==================== /our Header ==================== */
+
+/* ==================== Hero Section ====================*/
+
+.hero-section {
+    background-color: #1e1823;
+}
+
+.hero-title {
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 1.21;
+    letter-spacing: -0.03em;
+    color: #ffffff;
+}
+
+.hero-button {
+    font-weight: 600;
+    font-size: 14px;
+    background-color: #fd9222;
+    color:#ffffff;
+}
+
+.hero-button:hover,
+.hero-button:focus {
+    background-color: #fcf1e0;
+    color: #fd9222;
+}
+
+.example-link {
+    font-weight: 600;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.scroll-link {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.29;
+    letter-spacing: -0.03em;
+    color: #ffffff;
+}
+
+.example-link:hover,
+.example-link:focus,
+.scroll-link:hover,
+.scroll-link:focus {
+    color: #fd9222;
+}
+
+/* ==================== /Hero Section ====================*/
+
+/* ==================== Benefits section ====================*/
+
+.benefits-section {
+    background-color: #1e1823;
+}
+
+.title-section {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 1.17;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.benefits-title {
+    font-weight: 600;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.benefits-text {
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: -0.02em;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+
+/* ==================== /Benefits section ====================*/
+
+/* ==================== Reviews section ====================*/
+
+.title-text-part {
+    color: #fd9222;
+}
+
+.reviews-text {
+    font-size: 14px;
+    line-height: 1.29;
+    letter-spacing: -0.02em;
+    text-align: center;
+}
+
+.reviews-title {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 1.29;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+}
+
+.color-title {
+    color: #ffffff;
+}
+
+.reviews-item {
+    background-color: #ffffff;
+}
+
+.bg-item-orange {
+    background-color: #fd9222;
+}
+
+.bg-item-black {
+    background-color: #1e1823;
+}
+
+/* ==================== /Reviews section ====================*/
+
+/* ==================== Exampeles section ====================*/
+
+.examples-list {
+    background-color: #ffffff;
+}
+
+.examples-title {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 1.33;
+}
+
+.exampels-text {
+    font-size: 14px;
+    line-height: 1.29;
+    letter-spacing: -0.02em;
+}
+
+/* ==================== /Exampeles section ====================*/
+
+/* ==================== Team section ====================*/
+
+.team-item {
+    background-color: #ffffff;
+}
+
+.team-title {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 1.33;
+    text-align: center;
+}
+
+.team-text{
+    font-size: 14px;
+    line-height: 1.29;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: rgba(17, 17, 17, 0.7);
+}
+
+.team-button {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.team-button:hover,
+.team-button:focus {
+    background-color: #fd9222;
+    color:#ffffff;
+}
+
+/* ==================== /Team section ====================*/
+
+/* ==================== Footer section ====================*/
+
+.footer-section {
+    background-color: #1e1823;;
+}
+
+.footer-title {
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 1.21;
+    letter-spacing: -0.02em;
+    color: #ffffff;
+}
+
+.footer-address {
+    font-style: normal;
+}
+
+.address-text {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.29;
+    text-align: center;
+    color: #ffffff;
+}
+
+.address-link {
+    font-size: 14px;
+    line-height: 1.29;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: #ffffff;
+}
+
+.address-link:hover,
+.address-link:focus {
+    color: #fd9222;
+}
+
+.footer-link {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: -0.02em;
+    color: #ffffff;
+}
+
+.footer-link:hover,
+.footer-link:focus {
+    color:#fd9222;
+}
+/* ==================== /Footer section ====================*/
